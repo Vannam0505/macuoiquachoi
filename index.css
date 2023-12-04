@@ -1,0 +1,445 @@
+.macbook-pro-16-3-child {
+  position: absolute;
+  top: 28px;
+  left: 83px;
+  background-color: var(--color-gainsboro);
+  width: 1px;
+  height: 1px;
+}
+.macbook-pro-16-3-item,
+.screenshot-2023-11-01-104533-1 {
+  position: absolute;
+  top: 3px;
+  left: 766px;
+  width: 100px;
+  height: 60px;
+  object-fit: cover;
+}
+.screenshot-2023-11-01-104533-1 {
+  top: 107px;
+  left: 2px;
+  width: 1728px;
+  height: 480px;
+}
+.cart-shopping-solid-1-icon {
+  position: absolute;
+  top: 17px;
+  left: 1509px;
+  width: 22px;
+  height: 20px;
+  overflow: hidden;
+}
+.image-4 {
+  position: absolute;
+  top: 1273px;
+  left: 273px;
+  width: 136.4px;
+  height: 200px;
+}
+.vn {
+  color: var(--color-limegreen-100);
+}
+.gi-hng,
+.ng-nhp-vnen-container,
+.text {
+  position: absolute;
+  display: inline-block;
+}
+.ng-nhp-vnen-container {
+  top: 19px;
+  left: 1298px;
+  font-size: var(--font-size-sm);
+  width: 399px;
+  height: 218px;
+}
+.gi-hng,
+.text {
+  width: 242px;
+}
+.text {
+  top: 87px;
+  left: calc(50% - 121px);
+  font-size: var(--font-size-sm);
+  height: 167px;
+}
+.gi-hng {
+  top: 19px;
+  left: 1442px;
+  font-size: var(--font-size-xs);
+  color: var(--color-lightgreen);
+  height: 145px;
+  cursor: pointer;
+}
+.image-1-icon {
+  position: absolute;
+  top: 9px;
+  left: 328px;
+  width: 165px;
+  height: 41px;
+  object-fit: cover;
+}
+.macbook-pro-16-3-inner {
+  position: absolute;
+  top: 805px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0),
+    rgba(217, 217, 217, 0)
+  );
+  width: 409px;
+  height: 64px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 9px;
+  left: 1435px;
+  border-radius: var(--br-xs);
+  border: 1px solid var(--color-limegreen-200);
+  box-sizing: border-box;
+  width: 108px;
+  height: 39px;
+}
+.macbook-pro-16-3-child1 {
+  position: absolute;
+  top: 748px;
+  left: 251px;
+  background-color: var(--color-limegreen-100);
+  width: 515px;
+  height: 547px;
+}
+.screenshot-2023-11-05-181009-1 {
+  position: absolute;
+  top: 748px;
+  left: 236px;
+  width: 530px;
+  height: 547px;
+  object-fit: cover;
+}
+.screenshot-2023-11-05-181612-1,
+.screenshot-2023-11-05-211726-1 {
+  position: absolute;
+  top: 1443px;
+  left: 849px;
+  width: 234px;
+  height: 447px;
+  object-fit: cover;
+}
+.screenshot-2023-11-05-211726-1 {
+  top: 2059px;
+  left: 2px;
+  width: 2550px;
+  height: 614.6px;
+}
+.t-nhng-mm {
+  position: absolute;
+  top: 805px;
+  left: 976px;
+  font-size: 26px;
+  display: inline-block;
+  color: var(--color-darkolivegreen);
+  width: 592px;
+  height: 69px;
+}
+.trai-qua-hn {
+  margin: 0;
+}
+.trai-qua-hn-container,
+.trong-sut-qu {
+  position: absolute;
+  top: 938px;
+  left: 973px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 612px;
+  height: 287px;
+}
+.trong-sut-qu {
+  top: 1629px;
+  left: 236px;
+  width: 484px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  width: 1728px;
+  height: 38px;
+}
+.i-ng-nhn,
+.trang-ch1 {
+  position: absolute;
+  display: inline-block;
+}
+.i-ng-nhn {
+  top: 1525px;
+  left: 236px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkolivegreen);
+  width: 457px;
+  height: 138px;
+}
+.trang-ch1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.trang-ch,
+.trang-ch2,
+.trang-ch4 {
+  position: absolute;
+  top: 87px;
+  left: 402px;
+  width: 117px;
+  height: 41px;
+}
+.trang-ch2,
+.trang-ch4 {
+  left: 560px;
+  width: 79px;
+}
+.trang-ch4 {
+  top: 88px;
+  left: 1354px;
+  width: 36px;
+  height: 15px;
+}
+.trang-ch6,
+.trang-ch8 {
+  position: absolute;
+  top: 87px;
+  left: 1029px;
+  width: 101px;
+  height: 28px;
+}
+.trang-ch8 {
+  left: 904px;
+  width: 97px;
+  height: 19px;
+}
+.trang-ch10,
+.trang-ch12,
+.trang-ch14 {
+  position: absolute;
+  top: 87px;
+  left: 766px;
+  width: 110px;
+  height: 34px;
+}
+.trang-ch12,
+.trang-ch14 {
+  left: 1185px;
+  width: 117px;
+  height: 16px;
+}
+.trang-ch14 {
+  left: 679px;
+  width: 59px;
+  height: 54px;
+}
+.component-2-child,
+.vector-icon {
+  position: absolute;
+  height: 0.77%;
+  width: 1.33%;
+  top: 2.67%;
+  right: 15.68%;
+  bottom: 96.57%;
+  left: 82.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-2-child {
+  height: 19.86%;
+  width: 38.35%;
+  top: 0;
+  right: 59.35%;
+  bottom: 80.14%;
+  left: 2.3%;
+  border-radius: var(--br-8xs);
+}
+.xem-thm {
+  position: absolute;
+  height: 97.36%;
+  width: 95.53%;
+  top: 2.64%;
+  left: 4.47%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-2 {
+  position: absolute;
+  top: 1152px;
+  left: 993px;
+  width: 322px;
+  height: 216px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkolivegreen);
+}
+.macbook-pro-16-3-child2 {
+  position: absolute;
+  top: 2674px;
+  left: 2px;
+  background-color: var(--color-lightgoldenrodyellow);
+  width: 1728px;
+  height: 330px;
+}
+.tr-s-chnh-container {
+  position: absolute;
+  top: 2706px;
+  left: 279px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 364px;
+  height: 202px;
+}
+.facebook-1-icon,
+.youtube-1-icon {
+  position: absolute;
+  top: 2810px;
+  left: 1069px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.youtube-1-icon {
+  height: 0.83%;
+  width: 1.91%;
+  top: 93.67%;
+  right: 29.69%;
+  bottom: 5.5%;
+  left: 68.4%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.instagram-1-icon,
+.twitter-1-icon {
+  position: absolute;
+  top: 2810px;
+  left: 1107px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.instagram-1-icon {
+  left: 1147px;
+  width: 24px;
+}
+.chnh-sch-t {
+  text-decoration: underline;
+}
+.chnh-sch-t-hng1 {
+  color: inherit;
+}
+.chnh-sch-t-hng {
+  margin-bottom: 0;
+}
+.chnh-sch-bo-mt-thng-tin {
+  color: var(--font-inherit);
+}
+.chnh-sch-t-hng-chnh-sch {
+  margin: 0;
+  padding-left: var(--padding-2xl);
+}
+.ng-k-nhn-container {
+  position: absolute;
+  top: 2725px;
+  left: 688px;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+  color: var(--font-inherit);
+}
+.macbook-pro-16-3-child3 {
+  position: absolute;
+  top: 2756px;
+  left: 701px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 190px;
+  height: 39px;
+}
+.gi,
+.nhp-a-ch {
+  position: absolute;
+  top: 2768px;
+  left: 726px;
+  font-size: var(--font-size-base);
+}
+.gi {
+  top: 2767px;
+  left: 911px;
+  display: inline-block;
+  width: 55px;
+  height: 31px;
+}
+.macbook-pro-16-3-child4 {
+  position: absolute;
+  top: 2759px;
+  left: 901px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 47px;
+  height: 34px;
+}
+.dathongbao-removebg-preview-1-icon {
+  position: absolute;
+  top: 2744px;
+  left: 1049px;
+  width: 174px;
+  height: 59px;
+  object-fit: cover;
+}
+.vnen {
+  position: absolute;
+  top: 2731px;
+  left: 1171px;
+  display: inline-block;
+  width: 66px;
+  height: 72px;
+}
+.component-3-child {
+  position: absolute;
+  height: 25.73%;
+  width: 97.7%;
+  top: -2.34%;
+  right: 0;
+  bottom: 76.61%;
+  left: 2.3%;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gia-nhp-i {
+  position: absolute;
+  height: 97.37%;
+  width: 95.54%;
+  top: 2.63%;
+  left: 4.46%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-3 {
+  position: absolute;
+  top: 1745px;
+  left: 228px;
+  width: 305px;
+  height: 171px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkolivegreen);
+}
+.macbook-pro-16-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3000px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
